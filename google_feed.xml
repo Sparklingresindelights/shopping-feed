@@ -216,7 +216,8 @@
       </g:shipping>
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
- <!-- ITEM 11: NATURAL WOOD & PEARL HEART BRACELET -->
+
+        <!-- ITEM 11: NATURAL WOOD & PEARL HEART BRACELET -->
     <item>
       <g:id>srd_bracelet_natural_wood_pearl</g:id>
       <g:title>Natural Wood &amp; Pearl Heart Bracelet | Boho Neutral</g:title>
@@ -315,7 +316,8 @@
       </g:shipping>
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
-<!-- ITEM 16: SOPHISTICATED BLACK CRYSTAL & STONE BRACELET -->
+
+      <!-- ITEM 16: SOPHISTICATED BLACK CRYSTAL & STONE BRACELET -->
     <item>
       <g:id>srd_bracelet_sophisticated_black</g:id>
       <g:title>Sophisticated Black Crystal &amp; Stone Bracelet | Elegant Gift</g:title>
@@ -361,7 +363,7 @@
       <g:title>Tiger Eye &amp; Lava Stone Diffuser Bracelet | Unisex Gift</g:title>
       <g:description>This standout piece blends the rich natural chatoyant shimmer of golden-yellow tiger eye stones with dark, porous black volcanic lava stones, elegantly accented by textured gold ring spacers that double as an oil diffuser.</g:description>
       <g:link>https://payhip.com/b/Cg8Oo</g:link>
-      <g:image_link>https://githubusercontent.com</g:image_link>
+      <g:image_link>https://tiger eye and lava stone.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>60.00 GBP</g:price>
