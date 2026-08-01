@@ -483,3 +483,26 @@
       </g:shipping>
       <g:shipping_weight>0.12 kg</g:shipping_weight>
     </item>
+ <!-- PRODUCT ITEM: ENCHANTED BLUE WEDDING BRUSH SET -->
+    <item>
+      <g:id>srd_brush_set_enchanted_blue</g:id>
+      <g:title>Enchanted Blue Wedding Makeup Brush Set | Bridal Gift</g:title>
+      <g:description>Immerse your wedding preparation in fairytale whimsy and striking artisan luxury. This standout 5-piece collection features premium beadable metal-shaft wands adorned with iridescent crystal glass beads, smooth pastel silicone spheres, and soft pom-poms. Uses ultra-soft non-shedding dual-toned bristles for a flawless application.</g:description>
+      <!-- Update the link below to your active checkout page -->
+      <g:link>https://payhip.com</g:link>
+      <!-- Change filename below if your GitHub image name is different -->
+      <g:image_link>https://githubusercontent.com</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>18.50 GBP</g:price>
+      <g:brand>Sparkling Resin Delights</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Handbags, Wallets &amp; Cases &gt; Cosmetic &amp; Toiletry Bags</g:google_product_category>
+      <g:product_type>Beauty Tools &gt; Beaded Makeup Brushes</g:product_type>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Tracked Delivery</g:service>
+        <g:price>3.65 GBP</g:price>
+      </g:shipping>
+      <g:shipping_weight>0.2 kg</g:shipping_weight>
+      <g:custom_label_0>Makeup Brushes</g:custom_label_0>
+    </item>         
