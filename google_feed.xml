@@ -675,15 +675,15 @@
       <g:custom_label_0>Necklaces</g:custom_label_0>
     </item>
 
-     <!-- ITEM 11: HANDMADE NOVELTY BEADED PENS COLLECTION -->
-    <item>
+     <item>
+     <!-- ITEM 33: HANDMADE NOVELTY BEADED PENS COLLECTION -->
       <g:id>srd_pen_novelty_collection</g:id>
       <g:title>Handmade Novelty Beaded Pens Collection</g:title>
       <g:description>Bring a splash of playful style to your stationery collection with our custom handcrafted novelty beaded pens. Thoughtfully designed in the UK, these writing accessories feature mixed premium setups including soft matte silicone beads, vibrant pattern layers, and dazzling crystal ring spacers for a smooth and comfortable daily writing experience. Available styles include Pink Kisses, Pretty Pink Bow, Retro Betty Boop, and Sparkling Purple Magic.</g:description>
       <g:link>https://payhip.com/b/6xVcm</g:link>
       <g:image_link>https://pink - kisses.jpg</g:image_link>
       <g:additional_image_link>https://betty - boop.jpg</g:additional_image_link>
-      <g:additional_image_link>https://sparkling purple magic.jpg</g:additional_image_link>
+      <g:additional_image_link>https://purple - magic.jpg</g:additional_image_link>
       <g:additional_image_link>https://beaded - pen.jpg</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
@@ -699,9 +699,9 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
       <g:custom_label_0>Pens</g:custom_label_0>
     </item>
-
-    <!-- ITEM 12: THE WILLIE PINK BEADED PEN | LUXURY CUSTOM STATIONERY -->
-    <item>
+    
+     <item>
+    <!-- ITEM 34: THE WILLIE PINK BEADED PEN | LUXURY CUSTOM STATIONERY -->
       <g:id>srd_pen_willie_pink</g:id>
       <g:title>The Willie Pink Beaded Pen | Luxury Custom Stationery</g:title>
       <g:description>Infuse your daily writing routine with a sense of playful glamour and refined elegance. The main barrel features a premium arrangement of smooth, bold pink bubblegum novelty shaped beads paired with a gorgeous glossy finish, beautifully broken up by stacked crystal rhinestone spacer discs engineered to reflect light dynamically.</g:description>
@@ -722,8 +722,8 @@
       <g:custom_label_0>Pens</g:custom_label_0>
     </item>
 
-    <!-- ITEM 13: PURPLE BUTTERFLY BEADED PEN | CUSTOM BOUTIQUE GIFT -->
-    <item>
+     <item>
+    <!-- ITEM 35: PURPLE BUTTERFLY BEADED PEN | CUSTOM BOUTIQUE GIFT -->
       <g:id>srd_pen_purple_butterfly</g:id>
       <g:title>Purple Butterfly Beaded Pen | Custom Boutique Gift</g:title>
       <g:description>Infuse your daily routine with a sense of whimsical serenity and refined elegance. Handcrafted lovingly in the UK, this stationery gem features a stunning multi-faceted crystal butterfly charm crowning the top layout, layered over high-shine black rhinestone rondelle spacers and high-gloss accent beads that deliver a dreamy cottagecore aesthetic.</g:description>
@@ -743,9 +743,9 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
       <g:custom_label_0>Pens</g:custom_label_0>
     </item>
-
-    <!-- ITEM 14: LILAC HAVE FUN CUSTOM BEADED PEN | HANDMADE UK GIFT -->
-    <item>
+    
+     <item>
+    <!-- ITEM 36: LILAC HAVE FUN CUSTOM BEADED PEN | HANDMADE UK GIFT -->
       <g:id>srd_pen_lilac_have_fun</g:id>
       <g:title>Lilac Have Fun Custom Beaded Pen | Handmade UK Gift</g:title>
       <g:description>Infuse your daily routine with a sense of playful mindfulness. This earthy yet highly polished writing instrument features large, smooth natural wooden beads for a cozy tactile grip, striking dark rhinestone spacer rings, and a playful dangling pendant charm beautifully stamped with the motivational reminder to 'HAVE FUN'.</g:description>
@@ -765,9 +765,9 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
       <g:custom_label_0>Pens</g:custom_label_0>
     </item>
-
-    <!-- ITEM 15: HOT PINK RHINESTONE SPARKLE BEADED PEN | LUXURY GIFT -->
-    <item>
+    
+      <item>
+    <!-- ITEM 37: HOT PINK RHINESTONE SPARKLE BEADED PEN | LUXURY GIFT -->
       <g:id>srd_pen_hot_pink_rhinestone</g:id>
       <g:title>Hot Pink Rhinestone Sparkle Beaded Pen | Luxury Gift</g:title>
       <g:description>Turn everyday note-taking into a luxurious experience with a burst of high-energy glamour. This head-turning luxury design showcases a vibrant mix of vivid hot pink bubblegum beads layered with intricate, detailed floral accents and densely packed, multi-faceted crystal rhinestone ring spacers engineered to maximize sparkle.</g:description>
@@ -787,9 +787,9 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
       <g:custom_label_0>Pens</g:custom_label_0>
     </item>
-
-    <!-- ITEM 16: CUTE GREEN FROG BEADED PEN | HANDCRAFTED UK GIFT -->
-    <item>
+    
+      <item>
+    <!-- ITEM 38: CUTE GREEN FROG BEADED PEN | HANDCRAFTED UK GIFT -->
       <g:id>srd_pen_cute_green_frog</g:id>
       <g:title>Cute Green Frog Beaded Pen | Handcrafted UK Gift</g:title>
       <g:description>Bring a playful sense of woodland enchantment to your desk. This nature-loving ballpoint pen features an incredibly detailed 3D frog character focal point crowning the top, resting gracefully over a fresh spring-inspired floral daisy accent bead and a sequence of smooth olive and light sea-green bubblegum beads.</g:description>
@@ -809,14 +809,19 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
       <g:custom_label_0>Pens</g:custom_label_0>
     </item>
-
-    <!-- ITEM 17: HANDMADE HIGHLAND COW BEADED PENS COLLECTION -->
-    <item>
+    
+       <item>
+    <!-- ITEM 39: HANDMADE HIGHLAND COW BEADED PENS COLLECTION -->
       <g:id>srd_pen_highland_cow_collection</g:id>
       <g:title>Handmade Highland Cow Beaded Pens Collection | UK Boutique</g:title>
       <g:description>Bring the ultimate countryside sanctuary straight to your office layout. This custom-designed farmhouse series features highly detailed, 3D Highland Cow focal charms adorned with whimsical hats or pretty bows, layered over premium tactile matte silicone beads and light-catching glass crystal rondelles for a smooth writing experience.</g:description>
       <g:link>https://payhip.com/b/0FTVe</g:link>
       <g:image_link>https://green ombre cow.jpg</g:image_link>
+      <g:image_link>https://teal and blue cow.jpg</g:image_link>
+      <g:image_link>https://peach and red cow.jpg</g:image_link>
+       <g:image_link>https://pink bow cow.jpg</g:image_link>
+       <g:image_link>https://earthy neutral cow.jpg</g:image_link>
+       <g:image_link>https://pink pattern cow.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>6.50 GBP</g:price>
@@ -831,14 +836,19 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
       <g:custom_label_0>Pens</g:custom_label_0>
     </item>
-
-    <!-- ITEM 18: HANDMADE CUSTOM BEADED PENS COLLECTION -->
-    <item>
+    
+      <item>
+    <!-- ITEM 40: HANDMADE CUSTOM BEADED PENS COLLECTION -->
       <g:id>srd_pen_custom_mixed_collection</g:id>
       <g:title>Handmade Custom Beaded Pens Collection | Unique UK Stationery</g:title>
       <g:description>Elevate your workspace layout with a beautiful variety of unique textures, artistic prints, and rich tactile finishes. This curated collection includes eye-catching designs from sassy leopard print hearts and pastel ombre gradients to modern minimalist matte lilac structures and shimmering star crystal elements built on premium anti-slip grips.</g:description>
       <g:link>https://payhip.com/b/lhfzF</g:link>
       <g:image_link>https://leopard love.jpg</g:image_link>
+      <g:image_link>https://pastel ombre and resin.jpg</g:image_link>
+      <g:image_link>https://lilac and purple matte.jpg</g:image_link>
+      <g:image_link>https://sunshine yellow.jpg</g:image_link>
+      <g:image_link>https://blushing rose elegance.jpg</g:image_link>
+       <g:image_link>https://soft sky breeze.jpg</g:image_link> 
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>6.50 GBP</g:price>
@@ -853,14 +863,16 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
       <g:custom_label_0>Pens</g:custom_label_0>
     </item>
-
-    <!-- ITEM 19: 3-PIECE LUXURY BEADED PEN GIFT SET -->
+    
     <item>
+    <!-- ITEM 41: 3-PIECE LUXURY BEADED PEN GIFT SET -->
       <g:id>srd_pen_gift_set_3piece</g:id>
       <g:title>3-Piece Luxury Beaded Pen Gift Set | Novelty Stationery UK</g:title>
       <g:description>Bring an energetic burst of playful confidence and creative texture into your workspace with this premium stationery bundle. This gorgeous trio anchors three distinct color stories including the Red Ombre Western Cow Pen, the tropical Neon Sunset Floral Pen, and the cottagecore Winter Willow Porcelain Pen with heavy-duty barrels.</g:description>
       <g:link>https://payhip.com/b/yAfhV</g:link>
-      <g:image_link>https://luxury beaded pen.jpg</g:image_link>
+      <g:image_link>https://the red ombre western cow.jpg</g:image_link>
+       <g:image_link>https://the neon sunset floral.jpg</g:image_link>
+       <g:image_link>https://the winter willow porcelain.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>12.00 GBP</g:price>
