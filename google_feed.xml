@@ -5,8 +5,8 @@
     <link>https://sparklingresindelights.co.uk</link>
     <description>Handcrafted Beaded Walking Stick Charms, Premium Pens, and Boutique Gifts from the UK.</description>
     
-    <!-- ITEM 1: BLUE SANDSTONE & PEARL STARLIGHT BRACELET -->
-    <item>
+      <item>
+         <!-- ITEM 1: BLUE SANDSTONE & PEARL STARLIGHT BRACELET -->
       <g:id>srd_bracelet_starlight_pearl</g:id>
       <g:title>Blue Sandstone &amp; Pearl Starlight Bracelet | Crystal Gift</g:title>
       <g:description>Add a touch of elegance to your daily wear with this stunning starlight pearl accessory. The Handmade Blue Sandstone &amp; Pearl Bracelet masterfully balances the deep mystery of the cosmos with classic, timeless luxury. Handcrafted thoughtfully in the UK, this piece features midnight-blue sandstone beads and creamy faux pearls with polished gold accent spacers.</g:description>
@@ -26,9 +26,9 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
-
+    
+     <item>
     <!-- ITEM 2: LAVA STONE & MAP JASPER DIFFUSER BRACELET -->
-    <item>
       <g:id>srd_bracelet_lava_map_jasper</g:id>
       <g:title>Lava Stone &amp; Map Jasper Diffuser Bracelet | Wellness Gift</g:title>
       <g:description>Experience grounding energy on the go with our handmade lava stone accessory. The Handmade Lava Stone &amp; Map Jasper Diffuser Bracelet masterfully balances the raw power of volcanic rock with earthy, stabilizing gemstones—creating a functional wellness piece that acts as a natural, portable diffuser for your favorite essential oils.</g:description>
@@ -49,8 +49,8 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-    <!-- ITEM 3: NATURAL MAP JASPER & AMETHYST GEMSTONE BRACELET -->
     <item>
+    <!-- ITEM 3: NATURAL MAP JASPER & AMETHYST GEMSTONE BRACELET -->
       <g:id>srd_bracelet_map_jasper_amethyst</g:id>
       <g:title>Natural Map Jasper &amp; Amethyst Gemstone Bracelet</g:title>
       <g:description>Bring calm and serenity into your routine with the Purple Earth gemstone accessory. The Natural Map Jasper and Amethyst Gemstone Bracelet masterfully balances the grounding stability of grey-and-black webbed jasper with soothing, meditative purple glass amethyst tones, creating a captivating statement piece.</g:description>
@@ -71,8 +71,8 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-    <!-- ITEM 4: UNAKITE & GREEN CHALCEDONY HEALING CRYSTAL BRACELET -->
     <item>
+    <!-- ITEM 4: UNAKITE & GREEN CHALCEDONY HEALING CRYSTAL BRACELET -->
       <g:id>srd_bracelet_unakite_chalcedony</g:id>
       <g:title>Unakite &amp; Green Chalcedony Healing Crystal Bracelet | UK</g:title>
       <g:description>Celebrate timeless elegance and add an accessory that radiates romantic, peaceful cottagecore charm. The Forest Bloom Bracelet showcases custom-molded, high-gloss green chalcedony focal beads with translucent core inclusions, topped by velvety smooth pink-and-green unakite gemstone rounds and earthy jaspers.</g:description>
@@ -93,8 +93,8 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-    <!-- ITEM 5: BOHEMIAN UNAKITE & RAW CRYSTAL BRACELET -->
     <item>
+    <!-- ITEM 5: BOHEMIAN UNAKITE & RAW CRYSTAL BRACELET -->
       <g:id>srd_bracelet_boho_unakite_raw</g:id>
       <g:title>Bohemian Unakite &amp; Raw Crystal Bracelet | Boho Stack</g:title>
       <g:description>Drape your daily accessories in pure fairytale whimsy, delicate coquette sophistication, and structural symmetry. The Wild Stone Wander Bracelet pairs soft, organic textures like smooth round natural Unakite stones with highly polished gold-toned spacer accents and raw, irregular crystal nuggets.</g:description>
@@ -115,10 +115,8 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-  </channel>
-</rss>
-<!-- ITEM 6: JUNGLE DRIFT WOOD AND MALACHITE BRACELET -->
-    <item>
+       <item>
+      <!-- ITEM 6: JUNGLE DRIFT WOOD AND MALACHITE BRACELET -->
       <g:id>srd_bracelet_jungle_drift</g:id>
       <g:title>Jungle Drift Wood &amp; Malachite Bracelet | Gemstone Gift</g:title>
       <g:description>Handcrafted bracelet featuring natural wood beads, Malachite, and green chalcedony for a modern, organic look.</g:description>
@@ -137,8 +135,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 7: CANDY DREAM PEN & BRACELET SET -->
     <item>
+    <!-- ITEM 7: CANDY DREAM PEN & BRACELET SET -->
       <g:id>srd_gift_set_candy_dream</g:id>
       <g:title>Candy Dream Pen &amp; Bracelet Set | Luxury Stationery</g:title>
       <g:description>Matching set with a metallic pink ballpoint pen and a coquette-style bracelet featuring crystals and a butterfly charm.</g:description>
@@ -158,8 +156,8 @@
       <g:shipping_weight>0.15 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 9: FRESH NATURE BEADED BRACELET -->
     <item>
+    <!-- ITEM 9: FRESH NATURE BEADED BRACELET -->
       <g:id>srd_bracelet_fresh_nature</g:id>
       <g:title>Fresh Nature Beaded Bracelet | Earthy Clay Jewelry</g:title>
       <g:description>Cottagecore style bracelet with polymer clay discs, olive-green glass beads, and a silver heart charm.</g:description>
@@ -178,8 +176,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 10: PINK RHINESTONE & RESIN PEARL BRACELET -->
     <item>
+    <!-- ITEM 10: PINK RHINESTONE & RESIN PEARL BRACELET -->
       <g:id>srd_bracelet_pink_rhinestone_pearl</g:id>
       <g:title>Pink Rhinestone &amp; Resin Pearl Bracelet | Elegant Gift</g:title>
       <g:description>Elegant bracelet combining glass wire resin beads, smooth faux pearls, and shimmering pink rhinestones.</g:description>
@@ -198,8 +196,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-        <!-- ITEM 11: NATURAL WOOD & PEARL HEART BRACELET -->
     <item>
+        <!-- ITEM 11: NATURAL WOOD & PEARL HEART BRACELET -->
       <g:id>srd_bracelet_natural_wood_pearl</g:id>
       <g:title>Natural Wood &amp; Pearl Heart Bracelet | Boho Neutral</g:title>
       <g:description>Celebrate timeless elegance and add an accessory that radiates romantic, peaceful cottagecore charm straight into your daily routine. Features highly polished natural wood beads beautifully contrasted by sweet faux pearl heart charms.</g:description>
@@ -218,8 +216,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 12: PINK GLASS & PEARL LUXE BRACELET -->
     <item>
+    <!-- ITEM 12: PINK GLASS & PEARL LUXE BRACELET -->
       <g:id>srd_bracelet_pink_glass_pearl_luxe</g:id>
       <g:title>Pink Glass &amp; Pearl Luxe Bracelet | Delicate Gold Gift</g:title>
       <g:description>Weave together creamy faux pearls and faceted pink glass beads. Intricately detailed with bright gold spacer accents that catch natural light dynamically from every single angle.</g:description>
@@ -238,8 +236,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 13: PASTEL OMBRE GUMBALL BRACELET -->
     <item>
+    <!-- ITEM 13: PASTEL OMBRE GUMBALL BRACELET -->
       <g:id>srd_bracelet_pastel_ombre_gumball</g:id>
       <g:title>Pastel Ombre Gumball Bracelet | Sorbet Rainbow Stack</g:title>
       <g:description>Crafted from smooth pastel gumball beads layered alongside stunning ombre shaded gumball beads in a delicious palette of soft sorbet tones including lemon yellow, mint green, sky blue, peach orange, and lavender purple.</g:description>
@@ -258,8 +256,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 14: PEARL & GOLD HEART STACK BRACELET -->
     <item>
+    <!-- ITEM 14: PEARL & GOLD HEART STACK BRACELET -->
       <g:id>srd_bracelet_pearl_gold_heart_stack</g:id>
       <g:title>Pearl &amp; Gold Heart Stack Bracelet | Elegant Handmade</g:title>
       <g:description>This classic statement accessory features high-luster faux pearls beautifully partitioned by gleaming gold love heart charms and tiny metallic spacer orbs. Perfect for bridesmaid proposal baskets or bridal packages.</g:description>
@@ -278,8 +276,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 15: NATURAL STONE & PEARL CALM BRACELET -->
     <item>
+    <!-- ITEM 15: NATURAL STONE & PEARL CALM BRACELET -->
       <g:id>srd_bracelet_natural_stone_pearl_calm</g:id>
       <g:title>Natural Stone &amp; Pearl Calm Bracelet | Boho Neutral</g:title>
       <g:description>Intentional design framing smooth natural mineral beads and classic creamy faux pearls with subtle gold-toned spacer balls to bring a comforting sense of balance and calm to your everyday stacking lineup.</g:description>
@@ -298,8 +296,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-      <!-- ITEM 16: SOPHISTICATED BLACK CRYSTAL & STONE BRACELET -->
     <item>
+      <!-- ITEM 16: SOPHISTICATED BLACK CRYSTAL & STONE BRACELET -->
       <g:id>srd_bracelet_sophisticated_black</g:id>
       <g:title>Sophisticated Black Crystal &amp; Stone Bracelet | Elegant Gift</g:title>
       <g:description>Drape your daily accessories in coquette sophistication. This stunning wrist accessory showcases a unique mix of smooth matte natural gemstone beads and luminous faux pearls, partitioned by mysterious, shimmering black rhinestone disc spacers.</g:description>
@@ -318,8 +316,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 17: GOLDEN SWAN STONE & WOOD BRACELET -->
     <item>
+    <!-- ITEM 17: GOLDEN SWAN STONE & WOOD BRACELET -->
       <g:id>srd_bracelet_golden_swan</g:id>
       <g:title>Golden Swan Stone &amp; Wood Bracelet | Boho Neutral UK</g:title>
       <g:description>Celebrate timeless elegance with peaceful cottagecore charm. This standout piece features highly polished natural wood beads layered alongside rich, earthy natural gemstone rounds and brilliant gold spacer ball accents.</g:description>
@@ -338,8 +336,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 18: TIGER EYE & LAVA STONE DIFFUSER BRACELET -->
     <item>
+    <!-- ITEM 18: TIGER EYE & LAVA STONE DIFFUSER BRACELET -->
       <g:id>srd_bracelet_tiger_eye_lava</g:id>
       <g:title>Tiger Eye &amp; Lava Stone Diffuser Bracelet | Unisex Gift</g:title>
       <g:description>This standout piece blends the rich natural chatoyant shimmer of golden-yellow tiger eye stones with dark, porous black volcanic lava stones, elegantly accented by textured gold ring spacers that double as an oil diffuser.</g:description>
@@ -358,8 +356,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 19: HANDCRAFTED EUROPEAN BEADED BRACELETS & CHARMS -->
     <item>
+    <!-- ITEM 19: HANDCRAFTED EUROPEAN BEADED BRACELETS & CHARMS -->
       <g:id>srd_bracelet_european_beaded_charms</g:id>
       <g:title>Handcrafted European Beaded Bracelets &amp; Charms | UK Gift</g:title>
       <g:description>Luxury European Beaded Charm Bracelet Collection. Each variant strand showcases premium, high-gloss 3D glass art lampwork beads layered beautifully alongside faceted crackle crystals and patterned silver spacer charms.</g:description>
@@ -383,8 +381,8 @@
       <g:shipping_weight>0.12 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 20: HANDCRAFTED BRACELET & ANKLET SETS -->
     <item>
+    <!-- ITEM 20: HANDCRAFTED BRACELET & ANKLET SETS -->
       <g:id>srd_set_bracelet_anklet_summer</g:id>
       <g:title>Handcrafted Bracelet &amp; Anklet Sets | Summer Jewelry UK</g:title>
       <g:description>Luxury Matching Coordinated Bracelet &amp; Ankle Chain Set Collection. Resort and beach statement sets featuring premium high-gloss glass crystals, vibrant polymer clay discs, or natural irregular Amazonite gemstone chips.</g:description>
@@ -407,8 +405,8 @@
       <g:shipping_weight>0.18 kg</g:shipping_weight>
     </item>
 
-      <!-- ITEM 21: HEALING CRYSTAL GEMSTONE BRACELET COLLECTION -->
     <item>
+      <!-- ITEM 21: HEALING CRYSTAL GEMSTONE BRACELET COLLECTION -->
       <g:id>srd_collection_healing_crystal</g:id>
       <g:title>Healing Crystal Gemstone Bracelet Collection | UK Gift</g:title>
       <g:description>Bring an energetic burst of peaceful harmony and organic texturing into your daily routine. This natural gemstone collection features the Woodland Whisper, Pearl Meadow, and Earth &amp; Sky variants, beautifully hand-assembled with luxury hardware.</g:description>
@@ -429,8 +427,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 22: HANDCRAFTED GEMSTONE & PEARL BRACELETS -->
     <item>
+    <!-- ITEM 22: HANDCRAFTED GEMSTONE & PEARL BRACELETS -->
       <g:id>srd_collection_gemstone_pearl</g:id>
       <g:title>Handcrafted Gemstone &amp; Pearl Bracelets | Jewelry Gift</g:title>
       <g:description>Shop our custom beaded crystal and pearl bracelets in the UK. This statement jewelry collection features the Woodland Pearl, Moonstone Mist, Seafoam Pearl, Blush Butterfly, and Ocean Pearl options with high-gloss beads and premium fittings.</g:description>
@@ -453,8 +451,8 @@
       <g:shipping_weight>0.1 kg</g:shipping_weight>
     </item>
 
-    <!-- ITEM 23: HANDCRAFTED BEADED WALKING STICK CHARMS -->
     <item>
+    <!-- ITEM 23: HANDCRAFTED BEADED WALKING STICK CHARMS -->
       <g:id>srd_collection_walking_stick_charms</g:id>
       <g:title>Handcrafted Beaded Walking Stick Charms | Wrist Straps</g:title>
       <g:description>Shop our custom beaded walking stick and cane charms in the UK. Handcrafted novelty statement wrist straps featuring premium polished focal beads, personalized lettering, and durable boutique hardware. Includes Pink Lady, Sarah Cowprint, Autumn Woodlands, Aimee Sunflower, Bumblebee &amp; Blooms, and Monochrome XOXO styles.</g:description>
@@ -478,4 +476,139 @@
       </g:shipping>
       <g:shipping_weight>0.12 kg</g:shipping_weight>
     </item>
+
+    <item>
+     <!-- ITEM 2: PRESSED FLOWER RESIN NECKLACE | QUEEN ANNE'S LACE BOUTIQUE -->
+      <g:id>srd_necklace_queens_lace</g:id>
+      <g:title>Pressed Flower Resin Necklace | Queen Anne's Lace Boutique</g:title>
+      <g:description>Infuse your style with woodland enchantment. The Forest Queen Anne's Lace Pressed Flower Resin Necklace masterfully captures real white wildflower blooms inside a polished crystal-clear frame, set against a deep mesmerizing forest green background with premium shimmering glitter.</g:description>
+      <g:link>https://payhip.com/b/B5mkM</g:link>
+      <g:image_link>https://resin - necklace.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+      <g:brand>Sparkling Resin Delights</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry &gt; Necklaces</g:google_product_category>
+      <g:product_type>Jewelry &gt; Resin Necklaces &gt; Pressed Flower Necklaces</g:product_type>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Tracked Delivery</g:service>
+        <g:price>3.65 GBP</g:price>
+      </g:shipping>
+      <g:shipping_weight>0.1 kg</g:shipping_weight>
+      <g:custom_label_0>Necklaces</g:custom_label_0>
+    </item>
+
+    <item>
+    <!-- ITEM 3: HANDMADE GOLD SUN CELESTIAL RESIN DROP EARRINGS -->
+      <g:id>srd_earrings_gold_sun_celestial</g:id>
+      <g:title>Handmade Gold Sun Celestial Resin Drop Earrings | Boutique</g:title>
+      <g:description>Add a touch of celestial magic to your collection. Trapped inside a high-gloss, crystal-clear resin lens are multi-dimensional shimmering shards refracting a light spectrum, featuring an intricately detailed gold-toned sun charm anchoring the heart of each dangling drop.</g:description>
+      <g:link>https://payhip.com/b/ZEuxP</g:link>
+      <g:image_link>https://resin - earrings.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>12.00 GBP</g:price>
+      <g:brand>Sparkling Resin Delights</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry &gt; Earrings</g:google_product_category>
+      <g:product_type>Jewelry &gt; Resin Earrings &gt; Drop Earrings</g:product_type>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Tracked Delivery</g:service>
+        <g:price>3.65 GBP</g:price>
+      </g:shipping>
+      <g:shipping_weight>0.1 kg</g:shipping_weight>
+      <g:custom_label_0>Earrings</g:custom_label_0>
+    </item>
+
+    <item>
+    <!-- ITEM 4: PINK BUTTERCUP PRESSED FLOWER RESIN NECKLACE -->
+      <g:id>srd_necklace_pink_buttercup</g:id>
+      <g:title>Pink Buttercup Pressed Flower Resin Necklace | Boutique</g:title>
+      <g:description>Brighten up your routine with a sense of sunlit charm. The central pendant lens features real, hand-preserved yellow buttercup blooms frozen forever inside a protective, high-gloss jewelry resin dome, thoughtfully contrasted against a soft, delicate blush pink base background.</g:description>
+      <g:link>https://payhip.com/b/xAF98</g:link>
+      <g:image_link>https://pink - buttercup.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>18.99 GBP</g:price>
+      <g:brand>Sparkling Resin Delights</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry &gt; Necklaces</g:google_product_category>
+      <g:product_type>Jewelry &gt; Resin Necklaces &gt; Pressed Flower Necklaces</g:product_type>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Tracked Delivery</g:service>
+        <g:price>3.65 GBP</g:price>
+      </g:shipping>
+      <g:shipping_weight>0.1 kg</g:shipping_weight>
+      <g:custom_label_0>Necklaces</g:custom_label_0>
+    </item>
+
+    <item>
+    <!-- ITEM 5: PINK GLITTER OVAL HOOPS | HANDMADE RESIN EARRINGS -->
+      <g:id>srd_earrings_pink_glitter_oval_hoops</g:id>
+      <g:title>Pink Glitter Oval Hoops | Handmade Resin Earrings</g:title>
+      <g:description>Add a touch of elegant sparkle to your jewelry curation. Individually hand-molded from crystal-clear resin, these earrings feature a unique asymmetrical split design: one half remains translucent, while the opposing side is densely infused with a fine, mesmerizing pastel pink shimmer.</g:description>
+      <g:link>https://payhip.com/b/eMZPn</g:link>
+      <g:image_link>https://pink glitter oval hoops.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>7.50 GBP</g:price>
+      <g:brand>Sparkling Resin Delights</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry &gt; Earrings</g:google_product_category>
+      <g:product_type>Jewelry &gt; Resin Earrings &gt; Hoop Earrings</g:product_type>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Tracked Delivery</g:service>
+        <g:price>3.65 GBP</g:price>
+      </g:shipping>
+      <g:shipping_weight>0.1 kg</g:shipping_weight>
+      <g:custom_label_0>Earrings</g:custom_label_0>
+    </item>
+
+    <item>
+    <!-- ITEM 6: SUNSET GUMMY BEAR DROPS | HANDMADE NOVELTY EARRINGS -->
+      <g:id>srd_earrings_sunset_gummy_bear</g:id>
+      <g:title>Sunset Gummy Bear Drops | Handmade Novelty Earrings</g:title>
+      <g:description>Bring a playful, nostalgic vibe to your style. Expertly molded from high-clarity resin to match classic sweet treats, each bear features a flawless translucent red-to-peach ombre gradient that captures the warm, bleeding colors of a coastal summer sunset.</g:description>
+      <g:link>https://payhip.com/b/rpwUZ</g:link>
+      <g:image_link>https://sunset gummy bear drops.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>8.00 GBP</g:price>
+      <g:brand>Sparkling Resin Delights</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry &gt; Earrings</g:google_product_category>
+      <g:product_type>Jewelry &gt; Resin Earrings &gt; Novelty Earrings</g:product_type>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Tracked Delivery</g:service>
+        <g:price>3.65 GBP</g:price>
+      </g:shipping>
+      <g:shipping_weight>0.1 kg</g:shipping_weight>
+      <g:custom_label_0>Earrings</g:custom_label_0>
+    </item>
+
+    <item>
+    <!-- ITEM 7: WARM MARBLED ORANGE OVALS | HANDMADE RESIN EARRINGS -->
+      <g:id>srd_earrings_warm_marbled_orange_ovals</g:id>
+      <g:title>Warm Marbled Orange Ovals | Handmade Resin Earrings</g:title>
+      <g:description>Embrace cozy, elegant tones. Individually poured using high-gloss boutique resin, each unique earring is swirled with a rich blend of natural sunset orange and warm amber tones to create a gorgeous marbled finish with incredible optical depth mimicking natural gemstone patterns.</g:description>
+      <g:link>https://payhip.com/b/HET4w</g:link>
+      <g:image_link>https://warm marbled orange ovals.jpg</g:image_link>
+      <g:condition>new</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>8.00 GBP</g:price>
+      <g:brand>Sparkling Resin Delights</g:brand>
+      <g:google_product_category>Apparel &amp; Accessories &gt; Jewelry &gt; Earrings</g:google_product_category>
+      <g:product_type>Jewelry &gt; Resin Earrings &gt; Drop Earrings</g:product_type>
+      <g:shipping>
+        <g:country>GB</g:country>
+        <g:service>Tracked Delivery</g:service>
+        <g:price>3.65 GBP</g:price>
+      </g:shipping>
+      <g:shipping_weight>0.1 kg</g:shipping_weight>
+      <g:custom_label_0>Earrings</g:custom_label_0>
+    </item>
+
+      </channel>
+      </rss>
 
