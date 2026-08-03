@@ -5,7 +5,7 @@
   <link>https://sparklingresindelights.co.uk</link>
   <description>Automated High-Performance Product Feed for Google Merchant Center</description>
 
-   <!-- ITEM 1: BLUE SANDSTONE AND PEARL STARLIGHT BRACELET-->
+   <!-- ITEM 1: BLUE SANDSTONE &amp; PEARL STARLIGHT BRACELET-->
     <item>
       <g:id>srd_bracelet_starlight_pearl</g:id>
       <g:title>Blue Sandstone &amp; Pearl Starlight Bracelet | Crystal Gift</g:title>
@@ -123,13 +123,13 @@
       <g:custom_label_0>Earrings</g:custom_label_0>
     </item>
   
-  <!-- ITEM 6: BOHEMIAN UNAKITE AND RAW CRYSTAL BRACELET -->
+  <!-- ITEM 6: BOHEMIAN UNAKITE &amp; RAW CRYSTAL BRACELET -->
     <item> 
       <g:id>srd_bracelet_boho_unakite_raw</g:id> 
       <g:title>Bohemian Unakite &amp; Raw Crystal Bracelet | Boho Stack</g:title> 
       <g:description>Drape your daily accessories in pure fairytale whimsy, delicate coquette sophistication, and structural symmetry. The Wild Stone Wander Bracelet pairs soft, organic textures like smooth round natural Unakite stones with highly polished gold-toned spacer accents and raw, irregular crystal nuggets.</g:description> 
       <g:link>https://sparklingresindelights.co.uk</g:link> 
-      <g:image_link>https://sparklingresindelights.co.uk stone wanderer.jpg</g:image_link> 
+      <g:image_link>https://sparklingresindelights.co.uk/images/wild stone wanderer.jpg</g:image_link> 
       <g:condition>new</g:condition> 
       <g:availability>in_stock</g:availability> 
       <g:price>15.00 GBP</g:price> 
@@ -145,13 +145,13 @@
       <g:custom_label_0>Bracelets</g:custom_label_0> 
     </item> 
 
-    <!-- ITEM 7: JUNGLE DRIFT WOOD AND MALACHITE BRACELET -->
+    <!-- ITEM 7: JUNGLE DRIFT WOOD &amp; MALACHITE BRACELET -->
     <item> 
       <g:id>srd_bracelet_jungle_drift</g:id> 
       <g:title>Jungle Drift Wood &amp; Malachite Bracelet | Gemstone Gift</g:title> 
       <g:description>Handcrafted bracelet featuring natural wood beads, Malachite, and green chalcedony for a modern, organic look.</g:description> 
       <g:link>https://sparklingresindelights.co.uk</g:link> 
-      <g:image_link>https://sparklingresindelights.co.uk drift.jpg</g:image_link> 
+      <g:image_link>https://sparklingresindelights.co.uk/images/jungle drift.jpg</g:image_link> 
       <g:condition>new</g:condition> 
       <g:availability>in_stock</g:availability> 
       <g:price>15.00 GBP</g:price> 
@@ -167,13 +167,14 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item> 
 
-    <!-- ITEM 8: CANDY DREAM PEN AND BRACELET SET -->
+    <!-- ITEM 8: CANDY DREAM PEN &amp; BRACELET SET -->
     <item> 
       <g:id>srd_gift_set_candy_dream</g:id> 
       <g:title>Candy Dream Pen &amp; Bracelet Set | Luxury Stationery</g:title> 
       <g:description>Matching set with a metallic pink ballpoint pen and a coquette-style bracelet featuring crystals and a butterfly charm.</g:description> 
       <g:link>https://sparklingresindelights.co.uk</g:link> 
-      <g:image_link>https://sparklingresindelights.co.uk dream.jpg</g:image_link> 
+      <g:image_link>https://sparklingresindelights.co.uk/images/candy dream.jpg</g:image_link> 
+       <g:image_link>https://sparklingresindelights.co.uk/images/candy dream1.jpg</g:image_link> 
       <g:condition>new</g:condition> 
       <g:availability>in_stock</g:availability> 
       <g:price>12.00 GBP</g:price> 
@@ -195,7 +196,7 @@
       <g:title>Fresh Nature Beaded Bracelet | Earthy Clay Jewelry</g:title> 
       <g:description>Cottagecore style bracelet with polymer clay discs, olive-green glass beads, and a silver heart charm.</g:description> 
       <g:link>https://sparklingresindelights.co.uk</g:link> 
-      <g:image_link>https://sparklingresindelights.co.uk nature.jpg</g:image_link> 
+      <g:image_link>https://sparklingresindelights.co.uk/images/fresh nature.jpg</g:image_link> 
       <g:condition>new</g:condition> 
       <g:availability>in_stock</g:availability> 
       <g:price>6.99 GBP</g:price> 
@@ -211,13 +212,13 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-  <!-- ITEM 10: PINK RHINESTONE AND RESIN PEARL BRACELET -->
+  <!-- ITEM 10: PINK RHINESTONE &amp; RESIN PEARL BRACELET -->
     <item>
       <g:id>srd_bracelet_pink_rhinestone_pearl</g:id>
       <g:title>Pink Rhinestone &amp; Resin Pearl Bracelet | Elegant Gift</g:title>
       <g:description>Elegant bracelet combining glass wire resin beads, smooth faux pearls, and shimmering pink rhinestones.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk rhinestone.jpg</g:image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/pink rhinestone.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>8.00 GBP</g:price>
@@ -233,13 +234,13 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-    <!-- ITEM 11: NATURAL WOOD AND PEARL HEART BRACELET -->
+    <!-- ITEM 11: NATURAL WOOD &amp; PEARL HEART BRACELET -->
     <item>
       <g:id>srd_bracelet_natural_wood_pearl</g:id>
       <g:title>Natural Wood &amp; Pearl Heart Bracelet | Boho Neutral</g:title>
       <g:description>Celebrate timeless elegance and add an accessory that radiates romantic, peaceful cottagecore charm straight into your daily routine. Features highly polished natural wood beads beautifully contrasted by sweet faux pearl heart charms.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk wood-pearl.jpg</g:image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/natural wood-pearl.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>6.00 GBP</g:price>
@@ -255,13 +256,13 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-    <!-- ITEM 12: PINK GLASS AND PEARL LUXE BRACELET -->
+    <!-- ITEM 12: PINK GLASS &amp PEARL LUXE BRACELET -->
     <item>
       <g:id>srd_bracelet_pink_glass_pearl_luxe</g:id>
       <g:title>Pink Glass &amp; Pearl Luxe Bracelet | Delicate Gold Gift</g:title>
       <g:description>Weave together creamy faux pearls and faceted pink glass beads. Intricately detailed with bright gold spacer accents that catch natural light dynamically from every single angle.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk glass.jpg</g:image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/pink glass.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>8.00 GBP</g:price>
@@ -283,7 +284,7 @@
       <g:title>Pastel Ombre Gumball Bracelet | Sorbet Rainbow Stack</g:title>
       <g:description>Crafted from smooth pastel gumball beads layered alongside stunning ombre shaded gumball beads in a delicious palette of soft sorbet tones including lemon yellow, mint green, sky blue, peach orange, and lavender purple.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk ombre gumball.jpg</g:image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/pastel ombre gumball.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>6.00 GBP</g:price>
@@ -299,13 +300,13 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-  <!-- ITEM 14: PEARL AND GOLD HEART STACK BRACELET -->
+  <!-- ITEM 14: PEARL &amp; GOLD HEART STACK BRACELET -->
     <item>
       <g:id>srd_bracelet_pearl_gold_heart_stack</g:id>
       <g:title>Pearl &amp; Gold Heart Stack Bracelet | Elegant Handmade</g:title>
       <g:description>This classic statement accessory features high-luster faux pearls beautifully partitioned by gleaming gold love heart charms and tiny metallic spacer orbs. Perfect for bridesmaid proposal baskets or bridal packages.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk and gold heart.jpg</g:image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/pearl &amp; gold heart.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>6.50 GBP</g:price>
@@ -321,13 +322,13 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-    <!-- ITEM 15: NATURAL STONE AND PEARL CALM BRACELET -->
+    <!-- ITEM 15: NATURAL STONE &amp PEARL CALM BRACELET -->
     <item>
       <g:id>srd_bracelet_natural_stone_pearl_calm</g:id>
       <g:title>Natural Stone &amp; Pearl Calm Bracelet | Boho Neutral</g:title>
-      <g:description>Intentional design framing smooth natural mineral beads and classic creamy faux pearls with subtle gold-toned spacer balls to bring a comforting sense of balance and calm to your everyday stacking lineup.</g:description>
+      <g:description>Intentional design framing smooth natural mineral beads &amp; classic creamy faux pearls with subtle gold-toned spacer balls to bring a comforting sense of balance and calm to your everyday stacking lineup.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk stone and pearl.jpg</g:image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/natural stone &amp; pearl.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>10.00 GBP</g:price>
@@ -343,13 +344,13 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-    <!-- ITEM 16: SOPHISTICATED BLACK CRYSTAL AND STONE BRACELET -->
+    <!-- ITEM 16: SOPHISTICATED BLACK CRYSTAL &amp; STONE BRACELET -->
     <item>
       <g:id>srd_bracelet_sophisticated_black</g:id>
       <g:title>Sophisticated Black Crystal &amp; Stone Bracelet | Elegant Gift</g:title>
       <g:description>Drape your daily accessories in coquette sophistication. This stunning wrist accessory showcases a unique mix of smooth matte natural gemstone beads and luminous faux pearls, partitioned by mysterious, shimmering black rhinestone disc spacers.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk black crystal.jpg</g:image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/sophisticated black crystal.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>10.00 GBP</g:price>
@@ -365,13 +366,13 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-    <!-- ITEM 17: GOLDEN SWAN STONE AND WOOD BRACELET -->
+    <!-- ITEM 17: GOLDEN SWAN STONE &amp; WOOD BRACELET -->
     <item>
       <g:id>srd_bracelet_golden_swan</g:id>
       <g:title>Golden Swan Stone &amp; Wood Bracelet | Boho Neutral UK</g:title>
       <g:description>Celebrate timeless elegance with peaceful cottagecore charm. This standout piece features highly polished natural wood beads layered alongside rich, earthy natural gemstone rounds and brilliant gold spacer ball accents.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk swan stone.jpg</g:image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/golden swan stone.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>20.00 GBP</g:price>
@@ -387,13 +388,13 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-  <!-- ITEM 18: TIGER EYE & LAVA STONE DIFFUSER BRACELET -->
+  <!-- ITEM 18: TIGER EYE &amp; LAVA STONE DIFFUSER BRACELET -->
     <item>
       <g:id>srd_bracelet_tiger_eye_lava</g:id>
       <g:title>Tiger Eye &amp; Lava Stone Diffuser Bracelet | Unisex Gift</g:title>
       <g:description>This standout piece blends the rich natural chatoyant shimmer of golden-yellow tiger eye stones with dark, porous black volcanic lava stones, elegantly accented by textured gold ring spacers that double as an oil diffuser.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk eye and lava stone.jpg</g:image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/tiger eye &amp; lava stone.jpg</g:image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>60.00 GBP</g:price>
@@ -409,18 +410,19 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-    <!-- ITEM 19: HANDCRAFTED EUROPEAN BEADED BRACELETS AND CHARMS -->
+    <!-- ITEM 19: HANDCRAFTED EUROPEAN BEADED BRACELETS &amp; CHARMS -->
     <item>
       <g:id>srd_bracelet_european_beaded_charms</g:id>
       <g:title>Handcrafted European Beaded Bracelets &amp; Charms | UK Gift</g:title>
       <g:description>Luxury European Beaded Charm Bracelet Collection. Each variant strand showcases premium, high-gloss 3D glass art lampwork beads layered beautifully alongside faceted crackle crystals and patterned silver spacer charms. Includes Enchanted Garden, Rainbow Meadow, Cotton Candy Dreams, Ocean Breeze, Butterfly Bloom, Crystal Lagoon, and Lavender Fields configurations.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk garden.jpg</g:image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk meadow.jpg</g:additional_image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk candy dreams.jpg</g:additional_image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk bloom.jpg</g:additional_image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk lagoon.jpg</g:additional_image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk fields.jpg</g:additional_image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/enchanted garden.jpg</g:image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/rainbow meadow.jpg</g:additional_image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/cotton candy.jpg</g:additional_image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/butterfly bloom.jpg</g:additional_image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/crystal lagoon.jpg</g:additional_image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/lavender fields.jpg</g:additional_image_link>
+       <g:additional_image_link>https://sparklingresindelights.co.uk/images/ocean breeze.jpg</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>14.50 GBP</g:price>
@@ -436,17 +438,17 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-    <!-- ITEM 20: HANDCRAFTED BRACELET AND ANKLET SETS -->
+    <!-- ITEM 20: HANDCRAFTED BRACELET &amp; ANKLET SETS -->
     <item>
       <g:id>srd_set_bracelet_anklet_summer</g:id>
       <g:title>Handcrafted Bracelet &amp; Anklet Sets | Summer Jewelry UK</g:title>
       <g:description>Luxury Matching Coordinated Bracelet &amp; Ankle Chain Set Collection. Resort and beach statement sets featuring premium high-gloss glass crystals, vibrant polymer clay discs, or natural irregular Amazonite gemstone chips. Set variants include Ocean Mist Natural Stone, Blush Bloom Clay Disc, Moonlight Amethyst Pearl, Candy Skies Pastel Rainbow, and Golden Sunshine Pearl &amp; Crystal.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk mist natural stone.jpg</g:image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk bloom clay disc.jpg</g:additional_image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk amethyst pearl.jpg</g:additional_image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk skies pastel rainbow.jpg</g:additional_image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk sunshine pearl and crystal.jpg</g:additional_image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/ocean mist natural stone.jpg</g:image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/blush bloom clay disc.jpg</g:additional_image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/moonlight amethyst pearl.jpg</g:additional_image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/candy skies pastel rainbow.jpg</g:additional_image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/golden sunshine pearl &amp; crystal.jpg</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>12.50 GBP</g:price>
@@ -468,9 +470,9 @@
       <g:title>Healing Crystal Gemstone Bracelet Collection | UK Gift</g:title>
       <g:description>Bring an energetic burst of peaceful harmony and organic texturing into your daily routine. This natural gemstone collection features the Woodland Whisper, Pearl Meadow, and Earth &amp; Sky variants, beautifully hand-assembled with luxury hardware.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk whisper.jpg</g:image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk and sky.jpg</g:additional_image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk meadow.jpg</g:additional_image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/woodland whisper.jpg</g:image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/earth &amp; sky.jpg</g:additional_image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/pearl meadow.jpg</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>9.99 GBP</g:price>
@@ -486,17 +488,17 @@
       <g:custom_label_0>Bracelets</g:custom_label_0>
     </item>
 
-  <!-- ITEM 22: HANDCRAFTED GEMSTONE AND PEARL BRACELETS -->
+  <!-- ITEM 22: HANDCRAFTED GEMSTONE &amp; PEARL BRACELETS -->
     <item>
       <g:id>srd_collection_gemstone_pearl</g:id>
       <g:title>Handcrafted Gemstone &amp; Pearl Bracelets | Jewelry Gift</g:title>
       <g:description>Shop our custom beaded crystal and pearl bracelets in the UK. This statement jewelry collection features the Woodland Pearl, Moonstone Mist, Seafoam Pearl, Blush Butterfly, and Ocean Pearl options with high-gloss beads and premium fittings.</g:description>
       <g:link>https://sparklingresindelights.co.uk</g:link>
-      <g:image_link>https://sparklingresindelights.co.uk pearl.jpg</g:image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk pearl.jpg</g:additional_image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk pearl.jpg</g:additional_image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk butterfly.jpg</g:additional_image_link>
-      <g:additional_image_link>https://sparklingresindelights.co.uk mist.jpg</g:additional_image_link>
+      <g:image_link>https://sparklingresindelights.co.uk/images/seafoam pearl.jpg</g:image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/ocean pearl.jpg</g:additional_image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/woodland pearl.jpg</g:additional_image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/images/blush butterfly.jpg</g:additional_image_link>
+      <g:additional_image_link>https://sparklingresindelights.co.uk/moonstone mist.jpg</g:additional_image_link>
       <g:condition>new</g:condition>
       <g:availability>in_stock</g:availability>
       <g:price>9.99 GBP</g:price>
